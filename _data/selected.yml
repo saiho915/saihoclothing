@@ -1,0 +1,18 @@
+  - cat: Lingerie
+    code: L-0001
+    onsale: yes
+  - cat: Beachwear
+    code: B-0001
+    onsale: 
+  - cat: NightWear
+    code: N-0001
+    onsale: 
+  - cat: Kids
+    code: K-0001
+    onsale: 
+  - cat: Shirts
+    code: S-0001
+    onsale: 
+  - cat: Lingerie
+    code: L-0001
+    onsale: 

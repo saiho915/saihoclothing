@@ -1,0 +1,68 @@
+---
+layout: default
+permalink: /about.html
+---
+<header id="fh5co-header" class="fh5co-cover fh5co-cover-sm" role="banner" style="background-image:url({{ site.baseurl }}/assets/images/about.jpg);">
+	<div class="overlay"></div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2 text-center">
+				<div class="display-t">
+					<div class="display-tc animate-box" data-animate-effect="fadeIn">
+						<h1>About Us</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+
+<div id="fh5co-about">
+	<div class="container">
+		<div class="about-content">
+			<div class="row animate-box">
+				<div class="col-md-6">
+					<div class="desc">
+						<h3>Company History</h3>
+						<p>{{ site.data.about.history}}</p>
+					</div>
+					<div class="desc">
+						<h3>Mission &amp; Vission</h3>
+						<p>{{ site.data.about.mission}}</p>
+					</div>
+					<div class="desc">
+						<h3>Logo Design Concept</h3>
+						<p>{{ site.data.about.design}}</p>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<img class="img-responsive" src="{{ site.baseurl }}/assets/images/logo.jpg" alt="about">
+				</div>
+			</div>
+		</div>
+		<div class="row animate-box">
+			<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+				<span>Productive Staff</span>
+				<h2>Meet Our Team</h2>
+				<p>30+ years of work experience, active and passionate service</p>
+			</div>
+		</div>
+		<div class="row">
+			{% for person in site.data.about.staff %}
+			<div class="col-md-4 col-sm-4 animate-box" data-animate-effect="fadeIn">
+				<div class="fh5co-staff">
+					<img src="{{ site.baseurl }}/assets/images/{{ person.avatar }}" alt="{{ person.position }}">
+					<h3>{{ person.name }}</h3>
+					<strong class="role">{{ person.position }}</strong>
+					<p>{{ person.comment }}</p>
+					<ul class="fh5co-social-icons">
+						<li><a href="{{ person.contact.facebook }}"><i class="icon-facebook"></i></a></li>
+						<li><a href="{{ person.contact.twitter }}"><i class="icon-twitter"></i></a></li>
+						<li><a href="{{ person.contact.linkedin }}"><i class="icon-linkedin"></i></a></li>
+					</ul>
+				</div>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+</div>

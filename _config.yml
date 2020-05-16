@@ -1,0 +1,47 @@
+author: Saiho Yeung
+title: SAIHO Clothing Manufacturer
+address: Foshan, Guangdong, China
+email: yshshihao@gmail.com
+phone: +86 1368 7417 194
+description: >-
+  SAIHO located in Foshan, Guandong is a newly established clothing enterprise, 
+  producing custom garments for start-up, small to medium sized clothing brands. 
+  The designers, quality control personnel and managers in the company have 
+  more than 30 years of work experience. Pattern making, sample making 
+  and other services will be provided.
+
+baseurl: "/saihoclothing"
+url: ""
+
+include: ['_pages']
+
+collections_dir: articles
+
+collections:
+  merchandise_lingerie:
+    output: true
+    permalink: /:name
+  merchandise_tops:
+    output: true
+    permalink: /:name
+  merchandise_kids:
+    output: true
+    permalink: /:name
+  merchandise_trousers:
+    output: true
+    permalink: /:name
+  merchandise_hoodies:
+    output: true
+    permalink: /:name
+  merchandise_shirts:
+    output: true
+    permalink: /:name
+  merchandise_beachwear:
+    output: true
+    permalink: /:name
+  merchandise_nightwear:
+    output: true
+    permalink: /:name
+  merchandise_custom:
+    output: true
+    permalink: /:name

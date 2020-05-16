@@ -1,0 +1,42 @@
+- point: Patterning
+  description: >-
+    At our facility in Guangdong, China, we are able to work from either a prototype or 
+    an illustration to build production ready patterns. These are a must before any of 
+    our designers are able to go to production.
+  icon: credit-card
+  
+- point: Sampling
+  description: >-
+    With a sample you are able to test the fit, the shape and the way your fabrics 
+    drape etc. After we create a sample we send it back to our clients for 
+    them to assess what changes need to be made. 
+  icon: wallet
+
+- point: Grading
+  description: >-
+    Grading is the final step of the development process where we translate 
+    your base pattern across your size range. If you have a garment or product 
+    that does not require size variants you are able to skip this step entirely. 
+  icon: paper-plane
+
+- point: Custom
+  description: >-
+    Compared to other companies, we have the ability to customize. When your 
+    product needs to be fine-tuned, we will do our best to serve you until 
+    the final product reaches your satisfaction.
+  icon: calendar
+
+- point: Quality
+  description: >-
+    In order to ensure the quality of the product, we have quality control personnel 
+    to perform the inspection. we will inspect all aspects of the product. We have 
+    many years of experience in quality control. When a product is delivered to you, 
+    it must be the high-quality one.
+  icon: clapperboard
+
+- point: Production
+  description: >-
+    Thanks to the clustering of the apparel industry, we are able to produce orders 
+    of varying quantities according to customer needs. If your order is very large, 
+    you need to contact us in advance, so as to ensure that your products are listed in time.
+  icon: drive

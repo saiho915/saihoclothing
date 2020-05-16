@@ -1,0 +1,270 @@
+L-0001:
+  title: Woman Lingerie
+  price: 100
+  description: >-
+    DESCRIPTION
+  keyVisual: kv.jpg
+  carousel: 
+    - name: 
+      url: 1.jpg
+    - name: 
+      url: 2.jpg
+    - name: 
+      url: 3.jpg
+    - name: 
+      url: 4.jpg
+    - name: 
+      url: 5.jpg
+  specification: 
+    - name: MOQ
+      value: Dynamic
+    - name: Gender
+      value: Custom
+    - name: Place of Origin
+      value: Foshan, China
+    - name: Style
+      value: Custom
+    - name: Feature
+      value: Custom
+    - name: Collar
+      value: Custom
+    - name: Fabric Weight
+      value: Custom
+    - name: Material
+      value: Custom
+    - name: Sleeve Style
+      value: Custom
+    - name: Fabric Type
+      value: Custom
+    - name: Logo
+      value: Custom
+    - name: Color
+      value: Custom
+    - name: Size
+      value: Custom
+  feedback: 
+    - reviewer: REVIEWER
+      comment: >-
+        COMMENT
+      rating: 5
+    - reviewer: REVIEWER
+      comment: >-
+        COMMENT
+      rating: 5
+
+K-0001:
+  title: Cute Kids Set
+  price: 100
+  description: >-
+    DESCRIPTION
+  keyVisual: kv.jpg
+  carousel: 
+    - name: 
+      url: 1.jpg
+    - name: 
+      url: 2.jpg
+    - name: 
+      url: 3.jpg
+    - name: 
+      url: 4.jpg
+    - name: 
+      url: 5.jpg
+  specification: 
+    - name: MOQ
+      value: Dynamic
+    - name: Gender
+      value: Custom
+    - name: Place of Origin
+      value: Foshan, China
+    - name: Style
+      value: Custom
+    - name: Feature
+      value: Custom
+    - name: Collar
+      value: Custom
+    - name: Fabric Weight
+      value: Custom
+    - name: Material
+      value: Custom
+    - name: Sleeve Style
+      value: Custom
+    - name: Fabric Type
+      value: Custom
+    - name: Logo
+      value: Custom
+    - name: Color
+      value: Custom
+    - name: Size
+      value: Custom
+  feedback: 
+    - reviewer: REVIEWER
+      comment: >-
+        COMMENT
+      rating: 5
+    - reviewer: REVIEWER
+      comment: >-
+        COMMENT
+      rating: 5
+
+N-0001:
+  title: Comfortable Nightwear
+  price: 100
+  description: >-
+    DESCRIPTION
+  keyVisual: kv.jpg
+  carousel: 
+    - name: 
+      url: 1.jpg
+    - name: 
+      url: 2.jpg
+    - name: 
+      url: 3.jpg
+    - name: 
+      url: 4.jpg
+    - name: 
+      url: 5.jpg
+  specification: 
+    - name: MOQ
+      value: Dynamic
+    - name: Gender
+      value: Custom
+    - name: Place of Origin
+      value: Foshan, China
+    - name: Style
+      value: Custom
+    - name: Feature
+      value: Custom
+    - name: Collar
+      value: Custom
+    - name: Fabric Weight
+      value: Custom
+    - name: Material
+      value: Custom
+    - name: Sleeve Style
+      value: Custom
+    - name: Fabric Type
+      value: Custom
+    - name: Logo
+      value: Custom
+    - name: Color
+      value: Custom
+    - name: Size
+      value: Custom
+  feedback: 
+    - reviewer: REVIEWER
+      comment: >-
+        COMMENT
+      rating: 5
+    - reviewer: REVIEWER
+      comment: >-
+        COMMENT
+      rating: 5
+
+B-0001:
+  title: Beachwear
+  price: 100
+  description: >-
+    DESCRIPTION
+  keyVisual: kv.jpg
+  carousel: 
+    - name: 
+      url: 1.jpg
+    - name: 
+      url: 2.jpg
+    - name: 
+      url: 3.jpg
+    - name: 
+      url: 4.jpg
+    - name: 
+      url: 5.jpg
+  specification: 
+    - name: MOQ
+      value: Dynamic
+    - name: Gender
+      value: Custom
+    - name: Place of Origin
+      value: Foshan, China
+    - name: Style
+      value: Custom
+    - name: Feature
+      value: Custom
+    - name: Collar
+      value: Custom
+    - name: Fabric Weight
+      value: Custom
+    - name: Material
+      value: Custom
+    - name: Sleeve Style
+      value: Custom
+    - name: Fabric Type
+      value: Custom
+    - name: Logo
+      value: Custom
+    - name: Color
+      value: Custom
+    - name: Size
+      value: Custom
+  feedback: 
+    - reviewer: REVIEWER
+      comment: >-
+        COMMENT
+      rating: 5
+    - reviewer: REVIEWER
+      comment: >-
+        COMMENT
+      rating: 5
+
+S-0001:
+  title: Simple T-shirt
+  price: 100
+  description: >-
+    DESCRIPTION
+  keyVisual: kv.jpg
+  carousel: 
+    - name: 
+      url: 1.jpg
+    - name: 
+      url: 2.jpg
+    - name: 
+      url: 3.jpg
+    - name: 
+      url: 4.jpg
+    - name: 
+      url: 5.jpg
+  specification: 
+    - name: MOQ
+      value: Dynamic
+    - name: Gender
+      value: Custom
+    - name: Place of Origin
+      value: Foshan, China
+    - name: Style
+      value: Custom
+    - name: Feature
+      value: Custom
+    - name: Collar
+      value: Custom
+    - name: Fabric Weight
+      value: Custom
+    - name: Material
+      value: Custom
+    - name: Sleeve Style
+      value: Custom
+    - name: Fabric Type
+      value: Custom
+    - name: Logo
+      value: Custom
+    - name: Color
+      value: Custom
+    - name: Size
+      value: Custom
+  feedback: 
+    - reviewer: REVIEWER
+      comment: >-
+        COMMENT
+      rating: 5
+    - reviewer: REVIEWER
+      comment: >-
+        COMMENT
+      rating: 5
+
