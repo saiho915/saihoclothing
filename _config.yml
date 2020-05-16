@@ -20,28 +20,19 @@ collections_dir: articles
 collections:
   merchandise_lingerie:
     output: true
-    permalink: /:name
   merchandise_tops:
     output: true
-    permalink: /:name
   merchandise_kids:
     output: true
-    permalink: /:name
   merchandise_trousers:
     output: true
-    permalink: /:name
   merchandise_hoodies:
     output: true
-    permalink: /:name
   merchandise_shirts:
     output: true
-    permalink: /:name
   merchandise_beachwear:
     output: true
-    permalink: /:name
   merchandise_nightwear:
     output: true
-    permalink: /:name
   merchandise_custom:
     output: true
-    permalink: /:name
